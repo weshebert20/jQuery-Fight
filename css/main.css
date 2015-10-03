@@ -47,7 +47,17 @@ body {
   left: 520px;
   z-index: 10;
 }
-
+.wording {
+  font-family: sans-serif;
+  font-size: 35px;
+  font-color: #000000;
+  width: 400px;
+  position: absolute;
+  top: 170px;
+  left: 775px;
+  z-index: 10;
+  line-height: 50px;
+}
 
 
 
